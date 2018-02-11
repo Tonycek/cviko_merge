@@ -23,6 +23,7 @@ namespace merge_skuska
         public MainWindow()
         {
             InitializeComponent();
+            Console.WriteLine("Co dnes rad robis?");
         }
     }
 }
