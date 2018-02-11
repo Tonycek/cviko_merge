@@ -12,3 +12,17 @@ D:\PortableGit\merge_tono\merge_skuska\obj\Debug\merge_skuska.Properties.Resourc
 D:\PortableGit\merge_tono\merge_skuska\obj\Debug\merge_skuska.csproj.GenerateResource.Cache
 D:\PortableGit\merge_tono\merge_skuska\obj\Debug\merge_skuska.exe
 D:\PortableGit\merge_tono\merge_skuska\obj\Debug\merge_skuska.pdb
+D:\PortableGit\merge_ivo\merge_skuska\bin\Debug\merge_skuska.exe.config
+D:\PortableGit\merge_ivo\merge_skuska\bin\Debug\merge_skuska.exe
+D:\PortableGit\merge_ivo\merge_skuska\bin\Debug\merge_skuska.pdb
+D:\PortableGit\merge_ivo\merge_skuska\obj\Debug\merge_skuska.csprojResolveAssemblyReference.cache
+D:\PortableGit\merge_ivo\merge_skuska\obj\Debug\MainWindow.g.cs
+D:\PortableGit\merge_ivo\merge_skuska\obj\Debug\App.g.cs
+D:\PortableGit\merge_ivo\merge_skuska\obj\Debug\merge_skuska_MarkupCompile.cache
+D:\PortableGit\merge_ivo\merge_skuska\obj\Debug\merge_skuska_MarkupCompile.lref
+D:\PortableGit\merge_ivo\merge_skuska\obj\Debug\MainWindow.baml
+D:\PortableGit\merge_ivo\merge_skuska\obj\Debug\merge_skuska.g.resources
+D:\PortableGit\merge_ivo\merge_skuska\obj\Debug\merge_skuska.Properties.Resources.resources
+D:\PortableGit\merge_ivo\merge_skuska\obj\Debug\merge_skuska.csproj.GenerateResource.Cache
+D:\PortableGit\merge_ivo\merge_skuska\obj\Debug\merge_skuska.exe
+D:\PortableGit\merge_ivo\merge_skuska\obj\Debug\merge_skuska.pdb

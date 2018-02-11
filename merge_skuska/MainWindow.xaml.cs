@@ -24,6 +24,7 @@ namespace merge_skuska
         {
             InitializeComponent();
             Console.WriteLine("Co dnes rad robis?");
+            Console.WriteLine("Ivo spravil zmenu");
         }
     }
 }
