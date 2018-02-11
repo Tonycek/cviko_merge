@@ -24,11 +24,15 @@ namespace merge_skuska
         {
             InitializeComponent();
             Console.WriteLine("Co dnes rad robis?");
-<<<<<<< HEAD
+
             Console.WriteLine("Ivo spravil zmenu");
-=======
+<<<<<<< HEAD
+
             Console.WriteLine("Po Ivovi robi zmenu aj Tono");
->>>>>>> TONOV DALSI COMMIT
+
+=======
+            Console.WriteLine("IVO CHCE ROBIT DALSIU ZMENU");
+>>>>>>> IVOV UZ POSLEDNY COMMIT
         }
     }
 }

@@ -27,7 +27,11 @@ namespace merge_skuska
 
             Console.WriteLine("Ivo spravil zmenu");
 
+
             Console.WriteLine("Po Ivovi robi zmenu aj Tono");
+
+
+            Console.WriteLine("IVO CHCE ROBIT DALSIU ZMENU");
 
         }
     }
